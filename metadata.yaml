@@ -1,0 +1,28 @@
+_repo: Sonnets-from-the-Patagonian_33674
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Evans, Donald
+    birthdate: 1884
+    deathdate: 1921
+    gutenberg_agent_id: '36531'
+    url: http://www.gutenberg.org/2009/agents/36531
+    wikipedia: http://en.wikipedia.org/wiki/Donald_Evans_%28American_poet%29
+description: ''
+gutenberg_issued: '2010-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33674'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sonnets'
+- !lcc 'PS'
+- !lcsh 'American poetry -- 20th century'
+title: Sonnets from the Patagonian
+url: http://www.gutenberg.org/ebooks/33674
