@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36531
     wikipedia: http://en.wikipedia.org/wiki/Donald_Evans_%28American_poet%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33674#Sonnets-from-the-Patagonian
 gutenberg_issued: '2010-09-08'
 gutenberg_type: Text
 identifiers:
